@@ -1,5 +1,5 @@
 # Analysing the air pollution levels of Barcelona during the COVID-19 pandemic lockdowns
-``To visualize the article properly, open the [web version](https://dibuja.github.io/sdav-project/)``
+To visualize the article properly, open the [web version](https://dibuja.github.io/sdav-project/)
 
 ### Intro goes here
 ### Analysis goes here:
