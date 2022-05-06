@@ -35,6 +35,9 @@ Some of the restrictions, such as the total lockdown that prohibited for all ind
 
 <embed type="text/html" src="./plots/2020.html" height="450" width="840">
 
+
+``——— Heatmap video.``
+
 While the first emergency state seems to have had a high impact on the NO2 concentration levels if we only take into account the previous visualization, it is not evident that the third emergency state had the same impact. It is easy to understand why: the third emergency state only limited mobility in a small extent, with recommended remote work and possibility to go out freely to work and to do leisure activities.  
 
 However, we cannot state that the values of NO2 concentration were not affected by it, to be able to do that we must remove the effects caused by meteorological causes.
