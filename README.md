@@ -20,6 +20,13 @@ In order to analyse the pattern in NO2 pollution during a day, we are plotting t
 
 ![Weekly plot](/plots/weekly.png)
 
+In the previous graph we can observe the peaks in NO2 concentration levels happening in the mornings of the working days during that week (friday was a holiday). Additionally, smaller peaks emerge during the afternoons of working days and the overall concentration levels decrease during weekends. These results go hand-in-hand with the mobility patterns of the population since the pollution levels are in their majority influenced by the road traffic.
+
+#### COVID-19 Restrictions
+
+We have also built a dataframe containing the most important restrictions implemented in terms of mobility and their duration. A horizontal barchart with the periods of entry into force of each restriction is shown below.
+
+``——— Plot with the periods of time where rules were enforced.``
 
 (Analysis)
 
