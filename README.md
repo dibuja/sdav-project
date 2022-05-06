@@ -32,7 +32,7 @@ We have also built a dataframe containing the most important restrictions implem
 Some of the restrictions, such as the total lockdown that prohibited for all individuals to go out of their homes besides to do essential work or tasks, lasted for very small periods of time. Other restrictions like the first emergency state lasted for a few months. We will compare these restrictions with the changes in NO2 concentration levels to try to find the correlation between them.
 
 ``——— Plot with the periods of time where rules were enforced.``
-<embed type="text/html" src="./plots/rules.html" width="1000" height="600"></embed>
+<embed type="text/html" src="./plots/rules.html" width="800" height="600"></embed>
 
 
 #### Full Time Series
