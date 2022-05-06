@@ -3,7 +3,7 @@
 ### Intro goes here
 ### Analysis goes here:
 
-Different rules were implemented during the COVID-19 pandemic lockdown in the city of Barcelona. These rules severely limited the mobility of people throughout the city, clearly reducing the emissions caused due to road transport$^1$. We want to know how their impact was on the air pollution of the city.
+Different rules were implemented during the COVID-19 pandemic lockdown in the city of Barcelona. These rules severely limited the mobility of people throughout the city, clearly reducing the emissions caused due to road transport[^1]. We want to know how their impact was on the air pollution of the city.
 
 For that we will describe and analyse the general behaviour of NO2 concentration levels on normal days and try to understand the data before moving on to finding correlations between the different variables.  
 
@@ -38,4 +38,6 @@ Some of the restrictions, such as the total lockdown that prohibited for all ind
 ``——— Plot with the periods of time where rules were enforced.``
 
 (Analysis)
+
+[^1]: Footnote 1.
 
