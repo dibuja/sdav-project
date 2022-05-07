@@ -8,7 +8,7 @@ Different rules were implemented during the COVID-19 pandemic lockdown in the ci
 
 For that we will describe and analyse the general behaviour of NO2 concentration levels on normal days and try to understand the data before moving on to finding correlations between the different variables.  
 
-Additionally to the restrictions that caused a decrease in the generation of air pollutants, we know that meteorological and topographic conditions highly influence the air pollution levels observed in the city since they determine the transport, chemical transformation and deposition of air pollutants$^1$. We have decided to take into account specifically wind speeds and precipitations for this project.  
+Additionally to the restrictions that caused a decrease in the generation of air pollutants, we know that meteorological and topographic conditions highly influence the air pollution levels observed in the city since they determine the transport, chemical transformation and deposition of air pollutants[^2]. We have decided to take into account specifically wind speeds and precipitations for this project.  
 
 
 #### Weekly evolution of NO2 concentrations  
@@ -53,5 +53,6 @@ However, we cannot state that the values of NO2 concentration were not affected 
 
 #### Conclusions & limitations
 
-[^1]: Footnote 1.
 
+[^1]: [Air Quality in Europe 2020 Report, European Environmental Agency](https://www.eea.europa.eu/publications/air-quality-in-europe-2020-report)
+[^2]: [Air Quality Status Briefing 2021, European Environmental Agency](https://www.eea.europa.eu/publications/air-quality-in-europe-2021/air-quality-status-briefing-2021)
