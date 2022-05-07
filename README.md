@@ -34,7 +34,7 @@ Some of the restrictions, such as the total lockdown that prohibited for all ind
 
 #### Full Time Series
 
-<embed type="text/html" src="./plots/2020.html" height="450" width="840">
+<embed type="text/html" src="./plots/full-time-series.html" height="450" width="840">
 
 
 ``——— Heatmap video.``
