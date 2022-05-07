@@ -42,7 +42,7 @@ While the first emergency state seems to have had a high impact on the NO2 conce
 
 However, we cannot state that the values of NO2 concentration were not affected by it, to be able to do that we must remove the effects caused by meteorological causes.
 
-
+<embed type="text/html" src="./plots/correlation.html" height="450" width="840">
 
 
 
