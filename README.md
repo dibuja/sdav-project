@@ -44,9 +44,13 @@ However, we cannot state that the values of NO2 concentration were not affected 
 
 <embed type="text/html" src="./plots/correlation.html" height="450" width="840">
 
+``——— Do a random forest.``
+``——— Perform feature permutation.``
+``——— Show the most important features.``
 
 
-(Analysis)
+
+#### Conclusions & limitations
 
 [^1]: Footnote 1.
 
