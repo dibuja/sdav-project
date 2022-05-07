@@ -19,7 +19,7 @@ In order to analyse the pattern in NO2 pollution during a day, we are plotting t
 
 ``——— Map of where the stations are.``
 
-![Weekly plot](/plots/weekly.png)
+<embed type="text/html" src="./plots/weekly_average.html" height="450" width="840">
 
 In the previous graph we can observe the peaks in NO2 concentration levels happening in the mornings of the working days during that week (friday was a holiday). Additionally, smaller peaks emerge during the afternoons of working days and the overall concentration levels decrease during weekends. These results go hand-in-hand with the mobility patterns of the population since the pollution levels are in their majority influenced by the road traffic.
 
