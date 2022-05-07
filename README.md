@@ -17,7 +17,8 @@ We started this analysis by understanding the trend in pollution levels by hour 
 
 In order to analyse the pattern in NO2 pollution during a day, we are plotting the hourly pollution levels on 15th - 21st of April, 2019. In the dataset we have two types of measuring stations: traffic & background stations. Both types of stations present the same patterns but with slightly higher or lower values, due to their proximity to large roads.
 
-``——— Map of where the stations are.``
+``——— Map of where the stations are.`` 
+<embed type="text/html" src="./plots/stations.html" height="450" width="840">
 
 <embed type="text/html" src="./plots/weekly_average.html" height="450" width="840">
 
