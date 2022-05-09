@@ -48,7 +48,7 @@ During the third state of alarm we can also observe a decrease in NO2 concentrat
 
 
 
-#### Restrictions during the pandemic
+### Restrictions during the pandemic
 
 The pandemic restrictions seem like a thing in the past that, hopefully, is fading out from our memories, so let’s remember the most impactful restrictions that were put in place as well as their time periods.
 
@@ -80,7 +80,7 @@ In order to further down on our analysis of impacts, we have modelled a ML learn
 ![](/plots/shap.png)
 
 
-#### Conclusions & limitations
+### Conclusions & limitations
   
 ***TODO***
   
