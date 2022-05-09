@@ -31,7 +31,7 @@ The stations in Eixample and Gràcia correspond to traffic stations and the rest
 **NO2 concentration levels in Barcelona are a public health problem**. High NO2 concentration levels are responsible for the acid rain that pollutes the environment as well as for health effects on the population, such as increased asthma cases, increased inflammation in the airways, reduced lung function, and other respiratory conditions [^3]. The United Nations as well as the European Union have both established limits to how much NO2 concentration can be in the air. How did Barcelona fulfill these limits between 2019 – 2020? You can see it in the following graph.
   
   
-***PLOT ABOUT EU AND UN LIMITS***  
+***PLOT ABOUT EU AND UN LIMITS + COMMENTS***  
   
   
 ### Weekly evolution of NO2 concentrations  
