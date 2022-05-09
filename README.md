@@ -1,5 +1,5 @@
 # Analysing the air pollution levels of Barcelona during the COVID-19 pandemic lockdowns
-To visualize the article properly, open the [web version](https://dibuja.github.io/sdav-project/).  
+*To visualize the article properly, open the [web version](https://dibuja.github.io/sdav-project/).
 
 
 The state of alarm established in Spain on the 14th of March of 2020 as a result of the COVID–19 Pandemic completely changed the life of everyone in the country. The economy got parallized and all the social relations and face-to-face interactions switched to a cold and electronic exchange of words through an artificial screen. During the  lockdown, the only real social life experience with human beings that didn’t belong to your home place would be the fast and nervous chat between the supermarket worker and maybe your neighbor while you were taking out your dog. And all of that with a double face mask covering half of your face and the constant panic of being too exposed.  
