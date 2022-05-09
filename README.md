@@ -79,6 +79,7 @@ In order to further down on our analysis of impacts, we have modelled a ML learn
 
 ![](/plots/shap.png)
 
+According to the previous plot, in order to infer the measured NO2 concentration levels, the most important variable is, as expected, the wind, followed by the variable corresponding to the third state of alarm and the first state of alarm. The variables corresponding to total lockdown, etc. did not seem to play a big influence in the model.  
 
 ### Conclusions & limitations
   
