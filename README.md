@@ -31,8 +31,9 @@ The stations in Eixample and Gràcia correspond to traffic stations and the rest
 **NO2 concentration levels in Barcelona are a public health problem**. High NO2 concentration levels are responsible for the acid rain that pollutes the environment as well as for health effects on the population, such as increased asthma cases, increased inflammation in the airways, reduced lung function, and other respiratory conditions [^3]. The United Nations as well as the European Union have both established limits to how much NO2 concentration can be in the air. How did Barcelona fulfill these limits between 2019 – 2020? You can see it in the following graph.
   
   
-***PLOT ABOUT EU AND UN LIMITS + COMMENTS***  
+<embed type="text/html" src="./plots/yearly_average.html" height="450" width="840">
   
+During the last years, the yearly average of NO2 concentration levels stayed under the acceptable limit established by the European Union (40 μg/m3) for all the stations besides 43, which is a traffic station. However, if we take into account the guideline of the World Health Organisation (10 μg/m3)[^4], we can see that Barcelona does not comply with such standards on any of the stations.
   
 ### Weekly evolution of NO2 concentrations  
 
@@ -40,7 +41,7 @@ Let’s first understand the trend in pollution levels by hour and day of the we
 
 <embed type="text/html" src="./plots/weekly_average.html" height="450" width="840">
 
-We can observe that during normal conditions there are two peaks of NO2 concentration during the day, the biggest one around 09:00 and another one around 20:00, which aligns with the time in which people tend to drive to work and back [^4]. It is also evident how, during the weekends, the trend in NO2 concentration completely changes: the peaks of pollution happen around 20:00 instead of in the mornings due to the changes in the mobility of people.  
+We can observe that during normal conditions there are two peaks of NO2 concentration during the day, the biggest one around 09:00 and another one around 20:00, which aligns with the time in which people tend to drive to work and back [^5]. It is also evident how, during the weekends, the trend in NO2 concentration completely changes: the peaks of pollution happen around 20:00 instead of in the mornings due to the changes in the mobility of people.  
 
 The second line shows the same values during the first state of alarm. During these days, the peak remained around 09:00, while the trend changed significantly. Overall, we can see an evident decrease in concentrations, going from a range between 13–47 μg/m3 to 6–33 μg/m3.  
 
@@ -89,3 +90,5 @@ According to the previous plot, in order to infer the measured NO2 concentration
 [^1]: [Air Quality in Europe 2020 Report, European Environmental Agency](https://www.eea.europa.eu/publications/air-quality-in-europe-2020-report)
 [^2]: [Air Quality Status Briefing 2021, European Environmental Agency](https://www.eea.europa.eu/publications/air-quality-in-europe-2021/air-quality-status-briefing-2021)
 [^3]: [Nitrogen Dioxide, American Lung Association](https://www.lung.org/clean-air/outdoors/what-makes-air-unhealthy/nitrogen-dioxide)
+[^4]: [Analysis of air pollution in Barcelona, Eldiario.es (spanish)](https://www.eldiario.es/catalunya/barcelona/radiografia-contaminacion-barcelona-infringiendo-ue_1_1186806.html)
+[^5]: [Ambient Air Pollution, World Health Organisation](https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health)
