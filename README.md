@@ -90,7 +90,7 @@ Additionally, we could see that, even though the specific rules in place and the
 
 We can conclude that the reduction in mobility caused a decrease in pollution levels that gave Barcelona the best air quality in years. Perhaps it is time to rethink the way mobility works in the city, to reduce the impact on the environment and public health.
 
-  
+------------
 
 [^1]: [Air Quality in Europe 2020 Report, European Environmental Agency](https://www.eea.europa.eu/publications/air-quality-in-europe-2020-report)
 [^2]: [Air Quality Status Briefing 2021, European Environmental Agency](https://www.eea.europa.eu/publications/air-quality-in-europe-2021/air-quality-status-briefing-2021)
