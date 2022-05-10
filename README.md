@@ -84,7 +84,12 @@ According to the previous plot, in order to infer the measured NO2 concentration
 
 ### Conclusions & limitations
   
-***TODO***
+During this analysis we have understood the NO2 concentration trends as well as how these numbers have changed during the period of restrictions that occurred between 2020 and 2022 as a consequence of the pandemic. We could see how the NO2 concentration levels decreased heavily during the first state of alarm and not so much during the third state of alarm.  
+
+Additionally, we could see that, even though the specific rules in place and the meteorological conditions influence the levels of NO2 concentration, they are clearly not enough to explain the specific levels at each time. Other variables, such as data on mobility, are essential to be able to make a model with a higher accuracy and therefore fully explain the impact of each restriction.  
+
+We can conclude that the reduction in mobility caused a decrease in pollution levels that gave Barcelona the best air quality in years. Perhaps it is time to rethink the way mobility works in the city, to reduce the impact on the environment and public health.
+
   
 
 [^1]: [Air Quality in Europe 2020 Report, European Environmental Agency](https://www.eea.europa.eu/publications/air-quality-in-europe-2020-report)
