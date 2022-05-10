@@ -1,0 +1,9 @@
+ID,Start,End,Duration
+all-schools-closed,2020-03-12,2020-09-14,186
+first-state-of-alarm-state-excl-relax,2020-03-14,2020-05-24,71
+total-lockdown,2020-03-30,2020-04-09,10
+relaxing-phase-1,2020-05-25,2020-06-07,13
+relaxing-phase-2,2020-06-08,2020-06-16,8
+relaxing-phase-3,2020-06-17,2020-06-18,1
+third-state-of-alarm,2020-10-25,2021-05-09,196
+night-curfew-01-to-06,2020-12-14,2021-01-21,38
